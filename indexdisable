@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lock System</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=0.75">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <p class="Title">Welcome to Vinculum Blog!</p>
+  <div class="Formm">
+  <form onsubmit="checkPassword(event)">
+    <p>Password</p>
+    <label>
+      <input type="password" name="password" required>
+    </label>
+    <br><br>
+    <button type="submit">Unlock</button>
+  </form>
+  </div>
+  
+  <script>
+    function checkPassword(event) {
+      event.preventDefault();
+      const password = event.target.elements.password.value;
+      if (password === 'NellJay123') {
+        window.location.href = 'blog.html';
+      } else {
+        alert('Wrong code!');
+      }
+    }
+  </script>
+  <br>
+  <br>
+  <br>
+  <div>
+    <nav>
+      <ul>
+        <li><a href="https://stemvinculumsection.netlify.app">Don't know the code?</a></li>
+      </ul>
+    </nav>
+  </div>
+</body>
+</html>

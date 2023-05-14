@@ -1,0 +1,19 @@
+  <div class="post">
+    <div class="post-header">
+      <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+      <div class="post-header-info">
+        <a class="font" href="https://www.facebook.com/accepter.giangan" target="_blank"><h3>Wneljae Giangan (Web Developer) <img class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+        </a>
+        <p class="font2">March 2, 2023 | 5:20 PM</p>
+      </div>
+    </div>
+    <div class="post-body">
+      <p class="post-description">Congrats Anteh!</p>
+      <img class="PhotoPost" src="awarding/IMG20230302163234.jpg" alt="post image">
+      <br>
+    </div>
+    <div class="post-footer">
+      <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="./Vinculum Blogs_files/sdk.js(1).download" nonce="SP7MTmhk"></script>
+</div></div> 

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="shortcut icon" href="awarding/VinFavicon.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+	<title>Vinculum Blogs</title>
+  
+  <style>
+  </style>
+</head>
+<body>
+</body>
+</html>
+
+	<link rel="stylesheet" type="text/css" href="Blog.css">
+</head>
+<style>
+</style>
+<body>
+    <header>
+        <nav>
+          <ul>
+            <li><a class="Marg" href="https://stemvinculumsection.netlify.app"><i class="fas fa-home"></i></a></li>
+            <li><a class="Marg" href="https://stemvinculumsection.netlify.app"><i class="fa fa-bars"></i></a></li>
+            <br>
+          </ul>
+        </nav>
+      </header>
+      
+</body>
+<body>
+  <br>
+  <h1 class="DevBlogTitle">Vinculum Blog &copy;</h1>
+  <br>
+
+  <div class="post">
+    <div class="post-header">
+      <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+      <div class="post-header-info">
+        <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+        </a>
+        <p class="font2" >March 2, 2023 | 5:24 PM</p>
+      </div>
+    </div>
+    <div class="post-body">
+      <p class="post-description">Congratulations!  🥳</p>
+      <img class="PhotoPost" src="awarding/IMG20230302162337.jpg" alt="post image">
+      <nav><a style="color: black; margin-left: 30%" href="https://drive.google.com/drive/folders/16eSXhm7FxjXt-0uWtDGLk8BPCH6Ik4Sq?usp=sharing" target="_blank">See All Photos (59+)</a></nav>
+      <br>
+      <div class="fb-like" data-href="https://localhost/awarding2" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+    </div>
+    <div class="post-footer">
+      <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://vinculumblog.netlify.app//awarding2" data-width="" data-numposts="5">
+</div>
+</div></div>
+
+<div class="post">
+  <div class="post-header">
+    <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+    <div class="post-header-info">
+      <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+      </a>
+      <p class="font2" >March 2, 2023 | 5:20 PM</p>
+    </div>
+  </div>
+  <div class="post-body">
+    <p class="post-description">Congrats beh 🥳</p>
+    <img class="PhotoPost" src="awarding/IMG20230302152415.jpg" alt="post image">
+    <br>
+    <div class="fb-like" data-href="https://localhost/awarding1" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+  </div>
+  <div class="post-footer">
+    <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://vinculumblog.netlify.app//awarding1" data-width="" data-numposts="5">
+</div>
+</div></div>
+
+  <div class="post">
+    <div class="post-header">
+      <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+      <div class="post-header-info">
+        <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+        </a>
+        <p class="font2" >March 2, 2023 | 5:20 PM</p>
+      </div>
+    </div>
+    <div class="post-body">
+      <p class="post-description">Congrats Anteh!</p>
+      <img class="PhotoPost" src="awarding/IMG20230302163234.jpg" alt="post image">
+      <br>
+      <div class="fb-like" data-href="https://localhost/awarding" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+    </div>
+    <div class="post-footer">
+      <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://vinculumblog.netlify.app//awarding" data-width="" data-numposts="5">
+</div>
+</div></div>
+
+  <div class="post">
+    <div class="post-header">
+      <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+      <div class="post-header-info">
+        <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+        </a>
+        <p class="font2" >Dec 17, 2022 | 10:56 AM</p>
+      </div>
+    </div>
+    <div class="post-body">
+      <p class="post-description">Christmas Party 2022</p>
+      <img class="PhotoPost" src="images/Vinculum2.jpg" alt="post image">
+      <br>
+      <div class="fb-like" data-href="https://localhost/index3.html" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+    </div>
+    <div class="post-footer">
+      <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://vinculumblog.netlify.app//christmas" data-width="" data-numposts="5">
+</div>
+</div></div>
+
+<div class="post">
+  <div class="post-header">
+    <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+    <div class="post-header-info">
+      <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+      </a>
+      <p class="font2" >Dec 17, 2022 | 1:57 PM</p>
+    </div>
+  </div>
+  <div class="post-body">
+    <p class="post-description">Christmas Party 2022</p>
+    <video autoplay controls>
+      <source src="honor/ABS-CBN Christmas Station ID 2009 _Bro, Ikaw ang Star ng Pasko_.mp4" type="video/mp4">
+    </video>
+    <br>
+    <div class="fb-like" data-href="https://localhost/index3.html" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+  </div>
+  <div class="post-footer">
+    <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://vinculumblog.netlify.app//christmas1" data-width="" data-numposts="5">
+</div>
+</div></div>
+
+<div class="post">
+  <div class="post-header">
+    <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+    <div class="post-header-info">
+      <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+      </a>
+      <p class="font2" >Dec 10, 2022 | 8:34 PM</p>
+    </div>
+  </div>
+  <div class="post-body">
+    <p class="post-description">PASKUHAN SA PAARALAN
+      Lagao National High School</p>
+      <p class="post-description">(LNHS) of General Santos City Christmas Event in 2022🎄🎁
+        #LNHSGensan</p>
+    <video autoplay controls>
+      <source class="video" src="honor/Paskuhan sa Paaralan Video Official.mp4" type="video/mp4">
+    </video>
+    <br>
+    <div class="fb-like" data-href="https://localhost/index3.html" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+  </div>
+  <div class="post-footer">
+    <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://vinculumblog.netlify.app//christmas2" data-width="" data-numposts="5">
+</div>
+</div></div>

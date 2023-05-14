@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+Body {
+        background-image: url('images/cameraaaa_00000.png');
+        background-size: 250%;
+        background-position: center;
+        transition: background 0.5s ease-in-out;
+    
+    }
+form {
+    text-align: center;
+    transform: scale(1.2);
+
+
+    }
+    p {
+        text-align: center;
+        font-family: 'Work Sans', sans-serif;
+        color: white;
+        display: block;
+    }
+.Formm {
+    transform: translateY(50px);
+}
+.Title {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    display: block;
+    font-size: 50px;
+}
+button:hover {
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out;
+}
+button {
+    transform: scale(1.0);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  button {
+    color: black;
+  }
+  @media screen and (max-width: 700px) {
+    Body {
+        background-image: url('images/cameraaaa_00000.png');
+        background-size: 690%;
+        background-position: center;
+        overflow:hidden;
+    
+    }
+    .Title {
+        text-align: center;
+        font-family: 'Work Sans', sans-serif;
+        color: white;
+        display: block;
+        font-size: 40px;
+    }
+  }
+  nav {
+        text-align: center;
+        font-family: 'Work Sans', sans-serif;
+        color: white;
+        display: block;
+        font-size: 15px;
+    }
+    a {
+        color: white;
+    }
+    ul {
+        list-style: none;
+    }
+.navbar {
+    background: transparent;
+}

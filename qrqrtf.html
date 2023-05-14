@@ -1,0 +1,52 @@
+<style>
+    /* Add some basic styles to the file input and button */
+#fileInput {
+  display: block;
+  margin-bottom: 10px;
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+</style>
+<input type="file" id="fileInput">
+<button onclick="convert()">Convert</button>
+<script>
+    function convert() {
+  // Get the input element
+  var input = document.getElementById('fileInput');
+  
+  // Get the file object
+  var file = input.files[0];
+  
+  // Create a new FileReader object
+  var reader = new FileReader();
+  
+  // When the file has been read
+  reader.onload = function(event) {
+    // Get the file contents
+    var contents = event.target.result;
+    
+    // Create a new Blob object from the contents
+    var blob = new Blob([contents], { type: 'audio/mp3' });
+    
+    // Create a URL object from the Blob
+    var url = URL.createObjectURL(blob);
+    
+    // Create a link element to download the MP3 file
+    var link = document.createElement('a');
+    link.href = url;
+    link.download = file.name.replace(/\.[^/.]+$/, "") + '.mp3';
+    link.click();
+  };
+  
+  // Read the file as a binary string
+  reader.readAsBinaryString(file);
+}
+
+</script>

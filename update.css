@@ -1,0 +1,28 @@
+.Helll {
+    font-family: 'Work Sans', sans-serif;
+  }
+  .post-images {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post-images img {
+    max-width: 100%;
+    height: auto;
+  }
+  @media (min-width: 768px) {
+    
+  .post .author span {
+    font-size: 25px;
+  }
+
+.post .author img {
+width: 50px;
+height: auto;
+border-radius: 50%;
+object-fit: cover;
+margin-right: 10px;
+}
+  }

@@ -1,0 +1,183 @@
+<style>
+.tweet-container {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+  border: 1px solid #e1e8ed;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border-radius: 15px;
+}
+
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.tweet-content {
+  flex-grow: 1;
+}
+
+.tweet-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.tweet-username {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.tweet-handle {
+  color: #657786;
+  margin-right: 5px;
+}
+
+.tweet-timestamp {
+  color: #657786;
+}
+
+.tweet-text {
+  margin-bottom: 10px;
+}
+
+.tweet-footer {
+  display: flex;
+}
+
+.tweet-footer-item {
+  margin-right: 10px;
+  color: #657786;
+  font-size: 14px;
+}
+
+.tweet-footer-item:hover {
+  color: #1da1f2;
+  cursor: pointer;
+}
+
+.verified-badge {
+  width: 22px;
+  height: auto;
+  margin-left: -5px;
+  margin-right: 0px;
+}
+.tweet-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  object-fit: cover;
+  object-position: center center;
+  aspect-ratio: 16/9;
+  border-radius: 15px;
+}
+
+.comment-section {
+  margin-top: 20px;
+  padding: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.comment-section h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.comment {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.comment-profile-picture {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.comment-content {
+  flex-grow: 1;
+}
+
+.comment-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.comment-username {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.comment-timestamp {
+  color: #657786;
+}
+
+.comment-text {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+
+
+
+</style>
+<div class="tweet-container">
+    <img src="images/NellImg.jpg" alt="Profile picture" class="profile-picture">
+    <div class="tweet-content">
+      <div class="tweet-header">
+        <span class="tweet-username">Wneljae Giangan</span>
+        <img src="images/VerifiedLL.png" alt="Verified badge" class="verified-badge">
+        <span class="tweet-handle">@nellgy</span>
+        <span class="tweet-timestamp">5h</span>
+      </div>
+      <div class="tweet-text">
+        This is a sample tweet text.
+      </div>
+      <img src="images/Vinculum2.jpg" class="tweet-image">
+      <div class="tweet-footer">
+        <span class="tweet-footer-item">100 Retweets</span>
+        <span class="tweet-footer-item">200 Likes</span>
+      </div>
+      <div class="comment-section">
+        <h3>Comments:</h3>
+        <div class="comment">
+          <img src="https://pbs.twimg.com/profile_images/1234567890/profile_picture.jpg" alt="Profile picture" class="comment-profile-picture">
+          <div class="comment-content">
+            <div class="comment-header">
+              <span class="comment-username">Jane Doe</span>
+              <span class="comment-timestamp">2h</span>
+            </div>
+            <div class="comment-text">
+              This is a sample comment.
+            </div>
+          </div>
+        </div>
+        <div class="comment">
+          <img src="https://pbs.twimg.com/profile_images/1234567890/profile_picture.jpg" alt="Profile picture" class="comment-profile-picture">
+          <div class="comment-content">
+            <div class="comment-header">
+              <span class="comment-username">Bob Smith</span>
+              <span class="comment-timestamp">1h</span>
+            </div>
+            <div class="comment-text">
+              This is another sample comment.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+  

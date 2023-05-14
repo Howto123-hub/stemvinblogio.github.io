@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylestory.css">
+    <title>Story</title>
+    <style>
+        .queue-bar {
+  display: flex;
+  flex-direction: column;
+  background-color: #313131;
+  padding: 60px 270px 60px 20px;
+  max-width: 500%;
+  object-fit: cover;
+  height: 360px;
+  position: fixed;
+  right: 0%;
+  margin-top: 20px;
+  border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 2px solid rgb(179, 179, 179);
+    overflow-y: auto;
+}
+
+.queue-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 25px;
+  color: aliceblue;
+  position: fixed;
+  margin-top: -45px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.queue-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 3%;
+  border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  justify-content: center;
+}
+.queue-item:hover {
+    background-color: #666;
+}
+
+.queue-item img {
+  margin-right: 10px;
+  width: 100px;
+}
+
+.queue-video-title {
+  font-weight: bold;
+}
+
+.queue-video-channel {
+  color: #666;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.backbtn {
+    position: fixed;
+    width: 50px;
+    filter: invert(1);
+}
+img.imgpost  {
+  width: 600px;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+    </style>
+</head>
+<body>
+
+    <a href="index.html"><img class="backbtn" src="images/—Pngtree—back vector icon_3791389.png" alt=""></a>
+
+
+    <div class="queue-bar">
+        <div class="queue-title">Up Next</div>
+        <a href=""><div class="queue-item">
+          <img src="https://via.placeholder.com/80x60" alt="Video thumbnail">
+          <div class="queue-details">
+            <div class="queue-video-title">Video title goes here</div>
+            <div class="queue-video-channel">Channel name goes here</div>
+          </div>
+        </div></a>
+        
+        <a href=""><div class="queue-item">
+            <img src="https://via.placeholder.com/80x60" alt="Video thumbnail">
+            <div class="queue-details">
+              <div class="queue-video-title">Video title goes here</div>
+              <div class="queue-video-channel">Channel name goes here</div>
+            </div>
+          </div></a>
+          
+          <a href=""><div class="queue-item">
+            <img src="https://via.placeholder.com/80x60" alt="Video thumbnail">
+            <div class="queue-details">
+              <div class="queue-video-title">Video title goes here</div>
+              <div class="queue-video-channel">Channel name goes here</div>
+            </div>
+          </div></a>
+
+          <a href=""><div class="queue-item">
+            <img src="https://via.placeholder.com/80x60" alt="Video thumbnail">
+            <div class="queue-details">
+              <div class="queue-video-title">Video title goes here</div>
+              <div class="queue-video-channel">Channel name goes here</div>
+            </div>
+          </div></a>
+      </div>
+      
+    <img class="imgpost" src="img/343389757_614716033623936_1604571485611794485_n.jpg" alt="">
+</body>
+</html>

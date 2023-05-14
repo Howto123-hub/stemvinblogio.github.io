@@ -1,0 +1,65 @@
+  <div class="post">
+    <div class="post-header">
+      <img class="amina" src="images/AminaImg.jpg" alt="profile picture">
+      <div class="post-header-info">
+        <a class="font"href="https://www.facebook.com/profile.php?id=100082642688409" target="_blank" ><h3>Amina (Web Tester) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+        </a>
+        <p class="font2" >Jan 27, 2023 | 9:54 AM</p>
+      </div>
+    </div>
+    <div class="post-body">
+      <p class="post-description">inaantok em pero di em matutulog</p>
+      <div class="fb-like" data-href="https://localhost/index2.html" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+    </div>
+    <div class="post-footer">
+      <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+<div class="fb-comments" data-href="https://localhost/index3.html" data-width="" data-numposts="1"></div>
+    </div>
+  </div>
+
+    <div class="post">
+        <div class="post-header">
+          <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+          <div class="post-header-info">
+            <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+            </a>
+            <p class="font2" >Jan 24, 2023 | 5:14 PM</p>
+          </div>
+        </div>
+        <div class="post-body">
+          <p class="post-description">Acccckkk Ganda</p>
+          <img class="PhotoPost" src="images/AminaImg.jpg" alt="post image">
+          <br>
+          <div class="fb-like" data-href="https://localhost/index3.html" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+        </div>
+        <div class="post-footer">
+          <div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+          <div class="fb-comments" data-href="https://localhost/indexx.html" data-width="" data-numposts="5"></div>
+        </div>
+      </div>      
+
+      <div class="post">
+        <div class="post-header">
+          <img class="amina" src="images/NellImg.jpg" alt="profile picture">
+          <div class="post-header-info">
+            <a class="font"href="https://www.facebook.com/accepter.giangan" target="_blank" ><h3>Wneljae Giangan (Web Developer) <img  class="Veri" src="images/VerifiedLL.png" alt=""></h3>
+            </a>
+            <p class="font2" >Jan 24, 2023 | 11:00 AM</p>
+          </div>
+        </div>
+        <div class="post-body">
+          <p class="post-description">Nugagawen?</p>
+          <img class="PhotoPost" src="images/Screenshot (466).png" alt="post image">
+          <br>
+          <div class="fb-like" data-href="https://localhost/index4.html" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+        </div>
+        <div class="post-footer">
+          <div id="fb-root"></div>
+          <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId=602856958350501&autoLogAppEvents=1" nonce="SP7MTmhk"></script>
+          <div class="fb-comments" data-href="https://localhost/index2.html" data-width="" data-numposts="5"></div>
+        </div>
+      </div>   
